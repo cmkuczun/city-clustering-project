@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('MASTER.csv')
+df = pd.read_csv('project-data.csv')
 
 df_numerical = df.select_dtypes(include=[np.number])
 
