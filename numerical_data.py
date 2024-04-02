@@ -11,7 +11,7 @@ columns_to_remove = ['lat', 'lng', 'county_fips', 'pct_voters', 'pct_poverty',
 
 df_final = df.select_dtypes(include=[np.number]).drop(columns=columns_to_remove, errors='ignore')
 
-df_final.to_csv('numerical_dataset.csv', index=False)
+df_final.to_csv('numerical_data.csv', index=False)
 
 # from google.colab import files
-# files.download('numerical_dataset.csv')
+# files.download('numerical_data.csv')
