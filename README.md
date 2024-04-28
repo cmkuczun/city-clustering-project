@@ -1,4 +1,5 @@
-## City Clustering Project
+# City Clustering Project
+### Group 7
 
-Analysis of various attributes for determining patterns in certain cities in the United States.
-Data Science course project.
+Analysis of various city for determining patterns in cities in the United States.
+Application of four clustering methods to evaluate best method for predicting similar cities for relation.
