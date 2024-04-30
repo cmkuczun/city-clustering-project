@@ -15,4 +15,4 @@ The attributes are related to: weather, economics,
 We test four clustering methods (t-SNE, K-Means, DBSCAN, Spectral) to find the best method for predicting similar cities given an inputted target city.
 
 #### Future Work
-Currently, the tool work with taking user input from the terminal, but we would improve on the UI to 
+Currently, the tool work with taking user input from the terminal, but we would improve on the UI to make it a website for easier portability and distribution to more users.
