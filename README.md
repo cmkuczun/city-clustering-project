@@ -2,7 +2,7 @@
 ## Group 7
 ### Claudia Kuczun, Eva Gorzkiewicz, Samantha Nagel, Tom O’Connor
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffree-png-vectors%2Fcity-landscape&psig=AOvVaw0sFG9TDBUdLnswVPvAK4yr&ust=1714591686724000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDy4fbV6oUDFQAAAAAdAAAAABAH
+![image](https://github.com/cmkuczun/city-clustering-project/assets/93489352/e431cb10-1a4f-4500-8f86-a11fcbcbe1cc)
 
 
 #### Purpose
